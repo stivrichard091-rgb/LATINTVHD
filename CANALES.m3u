@@ -1,0 +1,73 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://n9.cl/r49il", AMERICA TV HD
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+
+#EXTINF:-2 tvg-logo="https://n9.cl/kk8sl", ATV TV HD
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
+
+#EXTINF:-3 tvg-logo="https://n9.cl/lpqa8", ATV + TV HD
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
+
+#EXTINF:-4 tvg-logo="https://n9.cl/jdibd", ATV SUR TV HD 
+https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
+
+#EXTINF:-5 tvg-logo="https://n9.cl/qyz42", ANIMA TV HD 
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8
+
+#EXTINF:-6 tvg-logo="https://n9.cl/1oyb7g", BETHEL TV HD
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
+#EXTINF:-7 tvg-logo="https://n9.cl/vpq7t", BITEL TUSAMI TV HD
+https://live-evg5.tv360.bitel.com.pe/bitel/tusami/chunks.m3u8?uid=11344307
+
+#EXTINF:-8 tvg-logo="https://n9.cl/ogbdqp", CREO LATINO TV HD
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8?uid=1160940
+
+#EXTINF:9 tvg-logo="https://n9.cl/fzb8g4", CREO KIDS TV HD
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+
+#EXTINF:-10 tvg-logo="https://n9.cl/sszj8", FMH MUVIES TV HD
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
+
+#EXTINF:-11 tvg-logo="https://n9.cl/6qhgwy", FMH KIDS TV HD
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunks.m3u8
+
+#EXTINF:-12 tvg-logo="https://n9.cl/okacnj", GLOVAL TV HD
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
+
+#EXTINF:-13 tvg-logo="", HISTORI CHANNEL 1 TV HD
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-15 tvg-logo="https://n9.cl/cex85", PANAMERICANA TV HD
+https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+
+#EXTINF:-16 tvg-logo="https://n9.cl/l1iph", PRIMAVERA TV HD
+https://servilive.com:3538/live/v6qe84b6flive.m3u8
+
+#EXTINF:-17 tvg-logo="https://n9.cl/xn1xp", LATINA TV HD
+https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2186611808068f1702b8efed&sid=ba5t1l1xb22089886416695846ab2d51b&ndvc=0
+
+#EXTINF:-18 tvg-logo="https://n9.cl/q05i5", LATINA CLASICOS TV HD
+https://jireh-3-hls-video-pe-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b21797321069593e0d39ae5&sid=ba5t1l1xb2140669321769593e0d39ae3&ndvc=1
+
+#EXTINF:-19 tvg-logo="https://n9.cl/jqfsg", LATINA NOTICIAS TV HD
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8?dpssid=b2186611808068f1702b8efed&sid=ba5t1l1xb21640133493695943eecb924&ndvc=0
+
+#EXTINF:-22 tvg-logo="https://n9.cl/p4jef2",TV PERÚ HD 
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+
+#EXTINF:-23 tvg-logo="https://n9.cl/15irp", TV PERÚ NOTICIAS HD
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
+
+#EXTINF:-24 tvg-logo="https://n9.cl/2jda1", TV PERÚ INTERNACIONAL HD
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
+
+#EXTINF:-25 tvg-logo="https://n9.cl/rcomy", WILLAX TV HD
+http://38.183.182.166:8000/play/a0zn/index.m3u8
+
+#EXTINF:-26 tvg-logo="https://n9.cl/wf30d",DISNEY JUNIOR
+http://38.183.182.166:8000/play/a0j9/index.m3u8
+ 
+#EXTINF:-27 tvg-logo="https://n9.cl/cd3be",DISNEY CHANEL
+http://201.230.121.186:8000/play/a0fb/index.m3u8
