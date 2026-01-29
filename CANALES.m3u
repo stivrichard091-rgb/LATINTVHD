@@ -66,8 +66,5 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-25 tvg-logo="https://n9.cl/rcomy", WILLAX TV HD
 http://38.183.182.166:8000/play/a0zn/index.m3u8
 
-#EXTINF:-26 tvg-logo="https://n9.cl/wf30d",DISNEY JUNIOR
-http://38.183.182.166:8000/play/a0j9/index.m3u8
- 
-#EXTINF:-27 tvg-logo="https://n9.cl/cd3be",DISNEY CHANEL
-http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-logo="",Tgroup-title="TV Web",L1MAX
+https://elcanaldeportivo.com/liga1maxpe.php
